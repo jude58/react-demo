@@ -1,0 +1,266 @@
+{
+    "code":0,
+    "msg":"",
+    "data":{
+        "special_info":{
+            "id":"1",
+            "title":"万人大排查 百日大整治",
+            "cover":"https://xiuzhouimg.jiaxingren.com/images/special/wrdpc_539x262.png",
+            "url":"http://share.jiaxingren.com/?_hgOutLink=special/specialDetail&id=198"
+        },
+        "special_class":[
+            {
+                "id":"1",
+                "title":"最新动态"
+            },
+            {
+                "id":"2",
+                "title":"焦点关注"
+            },
+            {
+                "id":"3",
+                "title":"人物专访"
+            },
+            {
+                "id":"4",
+                "title":"观点评论"
+            },
+            {
+                "id":"5",
+                "title":"平行论坛"
+            }
+        ],
+        "special_data":[
+            {
+                "id":"1",
+                "title":"最新动态",
+                "list":[
+                    {
+                        "id":"4419",
+                        "title":"今天，秀洲携手吴江开展毗邻党建交流活动",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/images/2020/09/18/380dcb01222b5d2fa92cfdc445e2db06_720x481.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 19:43:57"
+                    },
+                    {
+                        "id":"4418",
+                        "title":"交通安全大会战持续加码！秀洲狠抓工程运输车专项整治",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/0e72db2997fc3d70528ba98f0bbd052a.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 19:41:44"
+                    },
+                    {
+                        "id":"4417",
+                        "title":"刚刚，秀洲区启动防汛Ⅳ级应急响应",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/2864fea8c3cbc78ff8b82321048d0cc4.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 17:56:57"
+                    },
+                    {
+                        "id":"4416",
+                        "title":"陆伟荣当选“中国好人”！",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/7d0863858adc55798cfbb3781e891124.jpg",
+                        "type":"3",
+                        "url":"https://mp.weixin.qq.com/s/l1nwDsQXVtv-TFh0MbI81g",
+                        "publish_time":"2020-09-17 17:10:56"
+                    },
+                    {
+                        "id":"4415",
+                        "title":"解决群众办事难，高照街道率先推行社区“错时工作制”",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/2cc8e6686c25d32bc91131492f580a4b.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 16:22:31"
+                    }
+                ]
+            },
+            {
+                "id":"2",
+                "title":"焦点关注",
+                "list":[
+                    {
+                        "id":"4419",
+                        "title":"今天，秀洲携手吴江开展毗邻党建交流活动",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/images/2020/09/18/380dcb01222b5d2fa92cfdc445e2db06_720x481.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 19:43:57"
+                    },
+                    {
+                        "id":"4418",
+                        "title":"交通安全大会战持续加码！秀洲狠抓工程运输车专项整治",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/0e72db2997fc3d70528ba98f0bbd052a.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 19:41:44"
+                    },
+                    {
+                        "id":"4417",
+                        "title":"刚刚，秀洲区启动防汛Ⅳ级应急响应",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/2864fea8c3cbc78ff8b82321048d0cc4.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 17:56:57"
+                    },
+                    {
+                        "id":"4416",
+                        "title":"陆伟荣当选“中国好人”！",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/7d0863858adc55798cfbb3781e891124.jpg",
+                        "type":"3",
+                        "url":"https://mp.weixin.qq.com/s/l1nwDsQXVtv-TFh0MbI81g",
+                        "publish_time":"2020-09-17 17:10:56"
+                    },
+                    {
+                        "id":"4415",
+                        "title":"解决群众办事难，高照街道率先推行社区“错时工作制”",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/2cc8e6686c25d32bc91131492f580a4b.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 16:22:31"
+                    }
+                ]
+            },
+            {
+                "id":"3",
+                "title":"人物专访",
+                "list":[
+                    {
+                        "id":"4419",
+                        "title":"今天，秀洲携手吴江开展毗邻党建交流活动",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/images/2020/09/18/380dcb01222b5d2fa92cfdc445e2db06_720x481.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 19:43:57"
+                    },
+                    {
+                        "id":"4418",
+                        "title":"交通安全大会战持续加码！秀洲狠抓工程运输车专项整治",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/0e72db2997fc3d70528ba98f0bbd052a.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 19:41:44"
+                    },
+                    {
+                        "id":"4417",
+                        "title":"刚刚，秀洲区启动防汛Ⅳ级应急响应",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/2864fea8c3cbc78ff8b82321048d0cc4.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 17:56:57"
+                    },
+                    {
+                        "id":"4416",
+                        "title":"陆伟荣当选“中国好人”！",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/7d0863858adc55798cfbb3781e891124.jpg",
+                        "type":"3",
+                        "url":"https://mp.weixin.qq.com/s/l1nwDsQXVtv-TFh0MbI81g",
+                        "publish_time":"2020-09-17 17:10:56"
+                    },
+                    {
+                        "id":"4415",
+                        "title":"解决群众办事难，高照街道率先推行社区“错时工作制”",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/2cc8e6686c25d32bc91131492f580a4b.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 16:22:31"
+                    }
+                ]
+            },
+            {
+                "id":"4",
+                "title":"观点评论",
+                "list":[
+                    {
+                        "id":"4419",
+                        "title":"今天，秀洲携手吴江开展毗邻党建交流活动",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/images/2020/09/18/380dcb01222b5d2fa92cfdc445e2db06_720x481.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 19:43:57"
+                    },
+                    {
+                        "id":"4418",
+                        "title":"交通安全大会战持续加码！秀洲狠抓工程运输车专项整治",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/0e72db2997fc3d70528ba98f0bbd052a.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 19:41:44"
+                    },
+                    {
+                        "id":"4417",
+                        "title":"刚刚，秀洲区启动防汛Ⅳ级应急响应",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/2864fea8c3cbc78ff8b82321048d0cc4.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 17:56:57"
+                    },
+                    {
+                        "id":"4416",
+                        "title":"陆伟荣当选“中国好人”！",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/7d0863858adc55798cfbb3781e891124.jpg",
+                        "type":"3",
+                        "url":"https://mp.weixin.qq.com/s/l1nwDsQXVtv-TFh0MbI81g",
+                        "publish_time":"2020-09-17 17:10:56"
+                    },
+                    {
+                        "id":"4415",
+                        "title":"解决群众办事难，高照街道率先推行社区“错时工作制”",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/2cc8e6686c25d32bc91131492f580a4b.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 16:22:31"
+                    }
+                ]
+            },
+            {
+                "id":"5",
+                "title":"平行论坛",
+                "list":[
+                    {
+                        "id":"4419",
+                        "title":"今天，秀洲携手吴江开展毗邻党建交流活动",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/images/2020/09/18/380dcb01222b5d2fa92cfdc445e2db06_720x481.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 19:43:57"
+                    },
+                    {
+                        "id":"4418",
+                        "title":"交通安全大会战持续加码！秀洲狠抓工程运输车专项整治",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/0e72db2997fc3d70528ba98f0bbd052a.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 19:41:44"
+                    },
+                    {
+                        "id":"4417",
+                        "title":"刚刚，秀洲区启动防汛Ⅳ级应急响应",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/2864fea8c3cbc78ff8b82321048d0cc4.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 17:56:57"
+                    },
+                    {
+                        "id":"4416",
+                        "title":"陆伟荣当选“中国好人”！",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/7d0863858adc55798cfbb3781e891124.jpg",
+                        "type":"3",
+                        "url":"https://mp.weixin.qq.com/s/l1nwDsQXVtv-TFh0MbI81g",
+                        "publish_time":"2020-09-17 17:10:56"
+                    },
+                    {
+                        "id":"4415",
+                        "title":"解决群众办事难，高照街道率先推行社区“错时工作制”",
+                        "cover":"https://xiuzhouimg.jiaxingren.com/image/2020/09/2cc8e6686c25d32bc91131492f580a4b.jpg",
+                        "type":"1",
+                        "url":"",
+                        "publish_time":"2020-09-17 16:22:31"
+                    }
+                ]
+            }
+        ]
+    }
+}
