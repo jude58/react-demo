@@ -9,7 +9,7 @@ import store from './store';
 
 // store.dispatch(countReduceAction)
 // store.dispatch(loadPostsAction)
-// console.log(store.getState())
+console.log(store.getState())
 
 
 
