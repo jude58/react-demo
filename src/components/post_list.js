@@ -23,7 +23,7 @@ class PostList extends Component {
     })
     return (
       <div>
-          <button onClick={clickCount}>获取标题与计数</button>
+          <button onClick={clickCount}>获取标题且计数</button>
           <span>{count}</span>
         <ul>{ Posts }</ul>
       </div>
